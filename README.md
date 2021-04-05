@@ -15,5 +15,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Desafio Flatterando
+Desafio Flutterando
 - [criar uma tela de login do tinder](https://img.utdstc.com/screen/13/location-changer-for-tinder-001.png)
